@@ -1,0 +1,16 @@
+.categoryBox {
+  padding: 0%;
+}
+
+.category-link {
+  list-style: none;
+  color: rgba(0, 0, 0, 0.61);
+  font: 400 1.5vmax 'Roboto';
+  margin: 0.4vmax;
+  cursor: pointer;
+  transition: all 0.5s;
+  display: inline-block;
+}
+.category-link:hover {
+  color: tomato;
+}

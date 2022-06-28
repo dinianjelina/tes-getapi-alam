@@ -1,0 +1,12 @@
+.link-endpoints {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.61);
+  font: 400 1.5vmax 'Roboto';
+  margin: 0.4vmax;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.link-endpoints:hover {
+  color: tomato;
+}
